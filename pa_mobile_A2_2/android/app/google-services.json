@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48995537380",
+    "project_id": "mcdonalds-5a895",
+    "storage_bucket": "mcdonalds-5a895.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48995537380:android:9bb267a4311158b48277f1",
+        "android_client_info": {
+          "package_name": "com.example.pa_mobile_b1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48995537380-lo0b904lqt8i3mf1s3m4cn2difl07m6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRXXYzwgHRUzJYzuKTe3_pL0mYxcplv1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48995537380-lo0b904lqt8i3mf1s3m4cn2difl07m6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
